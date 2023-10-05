@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select</name>
+   <tag></tag>
+   <elementGuidId>f19f06d4-71bd-4055-a9b3-64c0099d8f41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-outline-primary.selected_non_club_button.ng-star-inserted > span.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Sjl_IDEyMX4gfn5LV0l_MTAvMjYvMjAyMyAwNzoyMH5EWEJ_MTAvMjYvMjAyMyAxMDowNX5_uijourney']/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eccef626-904d-4e49-b1c9-f33775fb44a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>2ad82c5b-8d2c-48ae-989d-610f04e02d21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select</value>
+      <webElementGuid>f56cb56d-bfb1-4837-89a2-afeb5299f3f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bookingId-0&quot;)/app-trip-round[1]/app-savers-journey-fare-detail[@class=&quot;flight-in-panel-wrap tint-fill ng-star-inserted&quot;]/div[@class=&quot;container new-bundle-fares-contains ng-star-inserted&quot;]/div[2]/div[@class=&quot;flight-search-result-wrap savers_wrap_new ng-star-inserted&quot;]/div[@class=&quot;flight-search-result-item&quot;]/div[@class=&quot;flight-journey-info ng-star-inserted&quot;]/div[@class=&quot;flight-class-info-wrap savers_journey_regular_with_club_member_wrap ng-star-inserted&quot;]/div[@id=&quot;overriding-flight-bundelfare-line&quot;]/div[@class=&quot;ng-star-inserted&quot;]/span[@id=&quot;Sjl_IDEyMX4gfn5LV0l_MTAvMjYvMjAyMyAwNzoyMH5EWEJ_MTAvMjYvMjAyMyAxMDowNX5_uijourney&quot;]/button[@class=&quot;btn btn-outline-primary selected_non_club_button ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>08a87ea8-3c6e-4293-ba8f-67922d1a596e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='Sjl_IDEyMX4gfn5LV0l_MTAvMjYvMjAyMyAwNzoyMH5EWEJ_MTAvMjYvMjAyMyAxMDowNX5_uijourney']/button/span</value>
+      <webElementGuid>5bfb4709-93fc-4a05-b5bf-9aa00a67f4ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KWD 23.420'])[15]/following::span[2]</value>
+      <webElementGuid>88d0162c-2b25-493a-b201-dabed4d9e223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[21]/following::span[2]</value>
+      <webElementGuid>06e9237e-be9d-44e7-9a82-3db822531d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[3]/preceding::span[1]</value>
+      <webElementGuid>491c4593-1881-492c-ba13-90093a42ec23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[22]/preceding::span[2]</value>
+      <webElementGuid>314c1137-23df-49d9-bf63-67bfdc5e5798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
+      <webElementGuid>4ac1510b-8c65-4f03-ba14-109340322bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>68e2323d-75d8-43a0-b89b-34a266957488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Select' or . = ' Select')]</value>
+      <webElementGuid>259d0695-5d5b-4a02-ac65-b8fb28b8c1eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

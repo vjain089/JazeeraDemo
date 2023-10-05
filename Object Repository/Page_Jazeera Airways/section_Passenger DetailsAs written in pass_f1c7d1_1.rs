@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Passenger DetailsAs written in pass_f1c7d1_1</name>
+   <tag></tag>
+   <elementGuidId>bff25643-93f1-40a1-a6e3-eb0182ce327c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#passenger_details_section</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='passenger_details_section']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>a82f69c9-667a-4e1d-ae53-33f1388cab2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>passenger_details_section</value>
+      <webElementGuid>b36917bb-20b9-45c0-aa5e-335bf90adeba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>passenger-details-wrap tint-fill</value>
+      <webElementGuid>0c5ea51a-a339-4dc9-bf19-4fa7f6720858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Passenger DetailsAs written in passportImportant NotePlease note that some countries will require visa to be valid for at least 6 months before the scheduled departure date. We advise you to check the visa regulations for your destination. Adult1MR Katalon Demo Primary ContactAdult1As written in passport×MrTitleFirst name Last Name ×IndiaNationalityDate of BirthAdult2MRS Katalon Demo Primary ContactAdult2As written in passport×MrsTitleFirst name Last Name ×IndiaNationalityDate of BirthInfant1MSTR Katalon Test Infant1As written in passportTravelling withAdult 1 ×MasterTitleFirst name Last Name ×IndiaNationalityDate of BirthContact DetailsPrimary Contact MR Katalon Demo ×MrTitleFirst name Last Name Country of residenceCityCodeMobile NumberEmail AddressI would like to receive promotional emailsI would like to >Auto Check-InEmergency Contact Details OptionalAdd Emergency Contact DetailsEmergency Contact Details TitleFirst name Last Name Country of residenceCountry of residenceCodeMobile NumberEmail Address</value>
+      <webElementGuid>048408c0-ec36-43c8-9bc3-573515717280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;passenger_details_section&quot;)</value>
+      <webElementGuid>d691c1f5-f2fd-4c54-93ef-ef4df4d9d0ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//section[@id='passenger_details_section']</value>
+      <webElementGuid>0aa80217-2bde-4d06-a3dc-5b01708354de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::section[1]</value>
+      <webElementGuid>4ab28cfe-f335-4fed-a997-0b7d5a525ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/section</value>
+      <webElementGuid>bc79e472-27c3-478d-b113-00dff89a8be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[@id = 'passenger_details_section' and (text() = 'Passenger DetailsAs written in passportImportant NotePlease note that some countries will require visa to be valid for at least 6 months before the scheduled departure date. We advise you to check the visa regulations for your destination. Adult1MR Katalon Demo Primary ContactAdult1As written in passport×MrTitleFirst name Last Name ×IndiaNationalityDate of BirthAdult2MRS Katalon Demo Primary ContactAdult2As written in passport×MrsTitleFirst name Last Name ×IndiaNationalityDate of BirthInfant1MSTR Katalon Test Infant1As written in passportTravelling withAdult 1 ×MasterTitleFirst name Last Name ×IndiaNationalityDate of BirthContact DetailsPrimary Contact MR Katalon Demo ×MrTitleFirst name Last Name Country of residenceCityCodeMobile NumberEmail AddressI would like to receive promotional emailsI would like to >Auto Check-InEmergency Contact Details OptionalAdd Emergency Contact DetailsEmergency Contact Details TitleFirst name Last Name Country of residenceCountry of residenceCodeMobile NumberEmail Address' or . = 'Passenger DetailsAs written in passportImportant NotePlease note that some countries will require visa to be valid for at least 6 months before the scheduled departure date. We advise you to check the visa regulations for your destination. Adult1MR Katalon Demo Primary ContactAdult1As written in passport×MrTitleFirst name Last Name ×IndiaNationalityDate of BirthAdult2MRS Katalon Demo Primary ContactAdult2As written in passport×MrsTitleFirst name Last Name ×IndiaNationalityDate of BirthInfant1MSTR Katalon Test Infant1As written in passportTravelling withAdult 1 ×MasterTitleFirst name Last Name ×IndiaNationalityDate of BirthContact DetailsPrimary Contact MR Katalon Demo ×MrTitleFirst name Last Name Country of residenceCityCodeMobile NumberEmail AddressI would like to receive promotional emailsI would like to >Auto Check-InEmergency Contact Details OptionalAdd Emergency Contact DetailsEmergency Contact Details TitleFirst name Last Name Country of residenceCountry of residenceCodeMobile NumberEmail Address')]</value>
+      <webElementGuid>d9a2500d-d14b-407f-a1db-340863499908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Passenger DetailsAs written in passportImportant NotePlease note that some countries will require visa to be valid for at least 6 months before the scheduled departure date. We advise you to check the visa regulations for your destination. Adult1MR Katalon Demo Primary ContactAdult1As written in passport×MrTitleFirst name Last Name ×IndiaNationalityDate of BirthAdult2MRS Katalon Demo Primary ContactAdult2As written in passport×MrsTitleFirst name Last Name ×IndiaNationalityDate of BirthInfant1MSTR Katalon Test Infant1As written in passportTravelling withAdult 1 ×MasterTitleFirst name Last Name ×IndiaNationalityDate of BirthContact DetailsPrimary Contact MR Katalon Demo ×MrTitleFirst name Last Name ×IndiaCountry of residenceCity+91CodeMobile NumberEmail AddressI would like to receive promotional emailsI would like to >Auto Check-InEmergency Contact Details OptionalAdd Emergency Contact DetailsEmergency Contact Details TitleFirst name Last Name Country of residenceCountry of residenceCodeMobile NumberEmail Address' or . = 'Passenger DetailsAs written in passportImportant NotePlease note that some countries will require visa to be valid for at least 6 months before the scheduled departure date. We advise you to check the visa regulations for your destination. Adult1MR Katalon Demo Primary ContactAdult1As written in passport×MrTitleFirst name Last Name ×IndiaNationalityDate of BirthAdult2MRS Katalon Demo Primary ContactAdult2As written in passport×MrsTitleFirst name Last Name ×IndiaNationalityDate of BirthInfant1MSTR Katalon Test Infant1As written in passportTravelling withAdult 1 ×MasterTitleFirst name Last Name ×IndiaNationalityDate of BirthContact DetailsPrimary Contact MR Katalon Demo ×MrTitleFirst name Last Name ×IndiaCountry of residenceCity+91CodeMobile NumberEmail AddressI would like to receive promotional emailsI would like to >Auto Check-InEmergency Contact Details OptionalAdd Emergency Contact DetailsEmergency Contact Details TitleFirst name Last Name Country of residenceCountry of residenceCodeMobile NumberEmail Address')]</value>
+      <webElementGuid>d9de097e-8690-447c-ab16-50ac4a1732e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

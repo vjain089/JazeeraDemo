@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Confirm</name>
+   <tag></tag>
+   <elementGuidId>710faced-21fc-4241-b81a-2c2a3eb9504c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.panel-footer-Extra.text-center > button.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Sjl_IDEyMX4gfn5LV0l_MTAvMjQvMjAyMyAwNzoyMH5EWEJ_MTAvMjQvMjAyMyAxMDowNX5_Extrauifare']/app-flight-select-drop-down/div/section/div/div/div[4]/div/div[2]/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d80767c-6beb-4509-aaf3-ea511ac5eb91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>e165c73b-0d39-4991-a225-88ac9ee7bd68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm</value>
+      <webElementGuid>2f131182-83e0-40ca-b6d1-4bb36ef87d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Sjl_IDEyMX4gfn5LV0l_MTAvMjQvMjAyMyAwNzoyMH5EWEJ_MTAvMjQvMjAyMyAxMDowNX5_Extrauifare&quot;)/app-flight-select-drop-down[1]/div[@class=&quot;economy-border striped-four-block&quot;]/section[@class=&quot;plans&quot;]/div[@class=&quot;container d-none d-sm-block&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3 ng-star-inserted&quot;]/div[@class=&quot;panel panel-danger panel-pricing active&quot;]/div[2]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;panel-footer-Extra text-center&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>53ef84a3-1517-44fe-9fb4-b4a82f80a527</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Sjl_IDEyMX4gfn5LV0l_MTAvMjQvMjAyMyAwNzoyMH5EWEJ_MTAvMjQvMjAyMyAxMDowNX5_Extrauifare']/app-flight-select-drop-down/div/section/div/div/div[4]/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>8e3ebc02-ff70-4bf7-87b9-a3a295b06ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KWD 25.000'])[16]/following::button[1]</value>
+      <webElementGuid>39277372-37e9-47b1-bec4-549c9baf9dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay to Cancel up to 24 Hours prior to departure'])[2]/following::button[1]</value>
+      <webElementGuid>de4ff54c-68c4-4b9c-99d1-782d8a6d433d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fare Rules'])[1]/preceding::button[1]</value>
+      <webElementGuid>1bf7f0d8-bf17-4936-94f0-31321c3626c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Light'])[2]/preceding::button[2]</value>
+      <webElementGuid>0310cd2a-f245-4ee7-9c33-b7d5d90589d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
+      <webElementGuid>0d891c8b-8dcf-4e85-9b37-8c197071d29f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button</value>
+      <webElementGuid>d972c86b-fbd3-4ad1-8278-9485541d9998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Confirm' or . = 'Confirm')]</value>
+      <webElementGuid>39937742-4522-45ee-8ee1-5efff86e5f22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

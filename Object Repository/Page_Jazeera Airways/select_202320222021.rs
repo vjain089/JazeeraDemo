@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_202320222021</name>
+   <tag></tag>
+   <elementGuidId>4ef919a9-c6e9-4ea6-8d3a-393e60d9c1b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/following::select[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f8f996bf-7d36-4669-9eca-a011cafea170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select</value>
+      <webElementGuid>d8e96798-739f-43ad-8947-e91b0a41b39b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>202320222021</value>
+      <webElementGuid>3703ad10-1cc9-4d45-9fe9-1350ecd1b967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/bs-datepicker-container[@class=&quot;bottom ng-tns-c62-14 ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker ng-tns-c62-14 theme-green ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker-container ng-tns-c62-14 ng-trigger ng-trigger-datepickerAnimation&quot;]/div[@class=&quot;bs-calendar-container ng-tns-c62-14&quot;]/div[@class=&quot;bs-media-container ng-tns-c62-14 ng-star-inserted&quot;]/bs-days-calendar-view[@class=&quot;ng-tns-c62-14 ng-star-inserted&quot;]/bs-calendar-layout[1]/div[@class=&quot;bs-datepicker-head&quot;]/bs-datepicker-navigation-view[1]/select[@class=&quot;form-select&quot;]</value>
+      <webElementGuid>9f163489-83c3-4d55-b5c6-1ba4527ce2d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/following::select[2]</value>
+      <webElementGuid>e0458417-9b6c-475d-be0f-03c7b5e3bcdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='January'])[2]/preceding::select[1]</value>
+      <webElementGuid>f1e3176c-c0ab-4b93-b57f-130e3a8fe87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/preceding::select[1]</value>
+      <webElementGuid>79358587-4767-4c18-a447-f04b8029e6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>ef776b55-fb8c-4814-8908-3c98e2765263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '202320222021' or . = '202320222021')]</value>
+      <webElementGuid>36f7415a-4c6e-4cdd-b175-99e05fdfcd7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

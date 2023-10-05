@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_KWD_icon icon-arrow-down</name>
+   <tag></tag>
+   <elementGuidId>7e74dc31-9cdc-4d45-a80f-a558fe5827f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Sjl_IDEyMX4gfn5LV0l_MTAvMjQvMjAyMyAwNzoyMH5EWEJ_MTAvMjQvMjAyMyAxMDowNX5_uijourney > i.icon.icon-arrow-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Sjl_IDEyMX4gfn5LV0l_MTAvMjQvMjAyMyAwNzoyMH5EWEJ_MTAvMjQvMjAyMyAxMDowNX5_uijourney']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>28666532-5f45-4d38-873c-7e16a579d0bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-arrow-down</value>
+      <webElementGuid>eee1d80c-79f2-4b9f-91bc-cbcdda3bca56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Sjl_IDEyMX4gfn5LV0l_MTAvMjQvMjAyMyAwNzoyMH5EWEJ_MTAvMjQvMjAyMyAxMDowNX5_uijourney&quot;)/i[@class=&quot;icon icon-arrow-down&quot;]</value>
+      <webElementGuid>a811fcb1-e509-4720-8de3-7a24c7b21b57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='Sjl_IDEyMX4gfn5LV0l_MTAvMjQvMjAyMyAwNzoyMH5EWEJ_MTAvMjQvMjAyMyAxMDowNX5_uijourney']/i</value>
+      <webElementGuid>d62ed2d1-7194-4781-8182-4ea377de50f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[3]/div/div/span/i</value>
+      <webElementGuid>89b2e123-6cc5-4804-bf3a-17a232f9f651</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

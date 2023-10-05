@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_This field is required_ng-arrow-wrapper</name>
+   <tag></tag>
+   <elementGuidId>5632a7e1-977c-4ad9-ad30-1266e2802ae8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#test0 > div.ng-select-container.ng-has-value > span.ng-arrow-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ng-select[@id='test0']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bc4744ae-2b4f-4db1-a076-1d86a873278a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-arrow-wrapper</value>
+      <webElementGuid>45acf924-cacf-4c46-9166-9efcfbb04a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;passengerCollapse0&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;panel-form-wrap cols__alignh-start&quot;]/div[@class=&quot;panel-form panelwidthadjust&quot;]/div[@class=&quot;form-wrap&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-12 new_passenger_field&quot;]/div[@class=&quot;form-row row&quot;]/div[@class=&quot;col-6 dropdown-label&quot;]/div[@class=&quot;form-field float-label-wrapper custom-label passenger-details-fields&quot;]/ng-select[@id=&quot;test0&quot;]/div[@class=&quot;ng-select-container ng-has-value&quot;]/span[@class=&quot;ng-arrow-wrapper&quot;]</value>
+      <webElementGuid>fd0afa71-368d-4b65-ade4-c44135efeb97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ng-select[@id='test0']/div/span</value>
+      <webElementGuid>608438bf-9a3d-48f3-81db-5dfbd45eefff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is required.'])[1]/following::span[3]</value>
+      <webElementGuid>1ed54185-2e63-40ad-99fe-b849942d3a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[1]/following::span[4]</value>
+      <webElementGuid>43bb0f39-6b67-4636-accc-44897959895d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/preceding::span[2]</value>
+      <webElementGuid>a1d58196-c1f7-487a-9959-61a78375ad8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/preceding::span[2]</value>
+      <webElementGuid>561c3407-bcbe-4696-b770-6d617850e86d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ng-select/div/span</value>
+      <webElementGuid>66634787-64c4-40bb-bd83-0ae9ce267572</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

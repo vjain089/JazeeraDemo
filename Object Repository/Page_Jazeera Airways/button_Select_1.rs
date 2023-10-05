@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select_1</name>
+   <tag></tag>
+   <elementGuidId>b4b0c79f-40e1-4d36-b9ee-b38a28bb17b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Sjl_IDEyNH4gfn5EWEJ_MTEvMDIvMjAyMyAxNjo0NX5LV0l_MTEvMDIvMjAyMyAxNzo0MH5_uijourney > button.btn.btn-outline-primary.selected_non_club_button.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Sjl_IDEyNH4gfn5EWEJ_MTEvMDIvMjAyMyAxNjo0NX5LV0l_MTEvMDIvMjAyMyAxNzo0MH5_uijourney']/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c149d00c-7656-4314-ad1b-250f268f997e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary selected_non_club_button ng-star-inserted</value>
+      <webElementGuid>097e8502-50cd-48ef-aaec-823509f88f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select</value>
+      <webElementGuid>3f72dfc7-6a98-42be-90d4-c05474a48a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bookingId-1&quot;)/app-trip-round[1]/app-savers-journey-fare-detail[@class=&quot;flight-in-panel-wrap tint-fill ng-star-inserted&quot;]/div[@class=&quot;container new-bundle-fares-contains ng-star-inserted&quot;]/div[2]/div[@class=&quot;flight-search-result-wrap savers_wrap_new ng-star-inserted&quot;]/div[@class=&quot;flight-search-result-item&quot;]/div[@class=&quot;flight-journey-info ng-star-inserted&quot;]/div[@class=&quot;flight-class-info-wrap savers_journey_regular_with_club_member_wrap ng-star-inserted&quot;]/div[@id=&quot;overriding-flight-bundelfare-line&quot;]/div[@class=&quot;ng-star-inserted&quot;]/span[@id=&quot;Sjl_IDEyNH4gfn5EWEJ_MTEvMDIvMjAyMyAxNjo0NX5LV0l_MTEvMDIvMjAyMyAxNzo0MH5_uijourney&quot;]/button[@class=&quot;btn btn-outline-primary selected_non_club_button ng-star-inserted&quot;]</value>
+      <webElementGuid>8a93ed39-bab4-43c9-b772-07b80b189ea1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='Sjl_IDEyNH4gfn5EWEJ_MTEvMDIvMjAyMyAxNjo0NX5LV0l_MTEvMDIvMjAyMyAxNzo0MH5_uijourney']/button</value>
+      <webElementGuid>a124744d-3ff5-4e4a-8200-3ec17e55ace2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KWD 25.590'])[24]/following::button[1]</value>
+      <webElementGuid>587960d8-2707-4fbb-b4c4-f15179fbe749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[253]/following::button[1]</value>
+      <webElementGuid>ff2659ae-ad7e-4342-9521-e06ab7a336ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[114]/preceding::button[1]</value>
+      <webElementGuid>af203128-b27f-473d-8895-46fd4e657f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/app-trip-round/app-savers-journey-fare-detail/div/div[2]/div[2]/div/div/div[3]/div/div/span/button</value>
+      <webElementGuid>da4f67f2-9e4a-4b8e-83e6-11f1a49e8c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Select' or . = ' Select')]</value>
+      <webElementGuid>2f446b04-9311-44f0-b336-250a7b28d895</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

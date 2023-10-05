@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select-2</name>
+   <tag></tag>
+   <elementGuidId>f306edc8-ed36-437d-a121-6a0e2f59d2e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Select ' or . = 'Select ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Sjl_IDEyNH4gfn5EWEJ_MTEvMDEvMjAyMyAxNjo0NX5LV0l_MTEvMDEvMjAyMyAxNzo0MH5_Lightuifare > app-savers-flight-select-dropdown > div.economy-border.striped-four-block > section.plans.new-bundle-fares-rules > div.container.d-none.d-lg-block.business > div.row.w-100 > div.col-sm-9.d-flex.bundle-fare-new-savers-club.business > div.col-sm-3.business.ng-star-inserted > div.panel.panel-danger.panel-pricing > div:nth-of-type(2) > div.regular_savers_prices.ng-star-inserted > div.fare.regular > div.panel-footer-Value.text-center > button.btn.btn-primary.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;Sjl_IDEyNH4gfn5EWEJ_MTEvMDIvMjAyMyAxNjo0NX5LV0l_MTEvMDIvMjAyMyAxNzo0MH5_Lightuifare&quot;]/app-savers-flight-select-dropdown/div/section/div[1]/div/div[2]/div[2]/div/div[2]/div[1]/div[1]/span/strong/following::button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>89e6b66c-4be7-4d27-8c8f-51b1ecfdc549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary ng-star-inserted</value>
+      <webElementGuid>db570101-f5bb-4dd4-930a-765246003a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select </value>
+      <webElementGuid>8b783fd4-51ff-437e-a773-3c6dca148073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Sjl_IDEyNH4gfn5EWEJ_MTEvMDEvMjAyMyAxNjo0NX5LV0l_MTEvMDEvMjAyMyAxNzo0MH5_Lightuifare&quot;)/app-savers-flight-select-dropdown[1]/div[@class=&quot;economy-border striped-four-block&quot;]/section[@class=&quot;plans new-bundle-fares-rules&quot;]/div[@class=&quot;container d-none d-lg-block business&quot;]/div[@class=&quot;row w-100&quot;]/div[@class=&quot;col-sm-9 d-flex bundle-fare-new-savers-club business&quot;]/div[@class=&quot;col-sm-3 business ng-star-inserted&quot;]/div[@class=&quot;panel panel-danger panel-pricing&quot;]/div[2]/div[@class=&quot;regular_savers_prices ng-star-inserted&quot;]/div[@class=&quot;fare regular&quot;]/div[@class=&quot;panel-footer-Value text-center&quot;]/button[@class=&quot;btn btn-primary ng-star-inserted&quot;]</value>
+      <webElementGuid>75497950-c24e-46db-986b-ae3c97af7a44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Sjl_IDEyNH4gfn5EWEJ_MTEvMDEvMjAyMyAxNjo0NX5LV0l_MTEvMDEvMjAyMyAxNzo0MH5_Lightuifare']/app-savers-flight-select-dropdown/div/section/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>c122df4b-cdbc-4e7d-acd5-860c7246a3e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KWD 27.590'])[9]/following::button[1]</value>
+      <webElementGuid>5fefe059-7f2c-4019-933d-9fee2a620c52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regular Price'])[152]/following::button[1]</value>
+      <webElementGuid>9baa882e-e83e-4b7b-9566-85e1e5a43095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[139]/preceding::button[1]</value>
+      <webElementGuid>98b7e5b6-1ae7-4197-8e39-6bf59b788c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KWD 26.050'])[9]/preceding::button[1]</value>
+      <webElementGuid>cf405d6a-1d03-4d24-8081-a58f11ca481c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/app-trip-round/app-savers-journey-fare-detail/div/div[2]/div[2]/div/div[2]/div/div/div/app-savers-flight-select-dropdown/div/section/div/div/div[2]/div[2]/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>13b0a8dd-2f53-4629-9763-1c128f57527e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Select ' or . = 'Select ')]</value>
+      <webElementGuid>e74fd979-8fca-4dbd-b005-40513b00bd57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>4e17b153-2909-4f55-8293-2336abe3fc3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

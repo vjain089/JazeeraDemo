@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Travelling with</name>
+   <tag></tag>
+   <elementGuidId>9124d5fa-7f5c-4769-87bf-229008467232</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.display-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='passengerCollapse2']/div/div/div[2]/div/div/div/div/ngx-select-dropdown/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>de47b6e5-4d33-49e6-8b77-c6f57aabad7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>display-text</value>
+      <webElementGuid>65d055fd-45fc-4c8e-8529-447a413438be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Travelling with </value>
+      <webElementGuid>86000b11-fde5-4c9d-88ef-b0684c24f717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;passengerCollapse2&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;panel-form-wrap cols__alignh-start&quot;]/div[@class=&quot;panel-form panelwidthadjust&quot;]/div[@class=&quot;form-wrap&quot;]/div[@class=&quot;form-row row ng-star-inserted&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-field float-label-wrapper travelmaxwidth&quot;]/ngx-select-dropdown[@class=&quot;ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;ngx-dropdown-container&quot;]/button[@class=&quot;ngx-dropdown-button&quot;]/span[@class=&quot;display-text&quot;]</value>
+      <webElementGuid>70ddc5bc-bd9b-4912-8b5c-391a288e37cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='passengerCollapse2']/div/div/div[2]/div/div/div/div/ngx-select-dropdown/div/button/span</value>
+      <webElementGuid>5598693c-d472-4aa0-bd53-258e17096810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travelling with'])[1]/following::span[1]</value>
+      <webElementGuid>eeb14d46-eeb8-4c30-af8a-2b52944ab7b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='As written in passport'])[4]/following::span[1]</value>
+      <webElementGuid>3f5ade48-3950-4b86-b8eb-d53741327f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[3]/preceding::span[6]</value>
+      <webElementGuid>ebed3ee1-37c6-4451-b4aa-d9d47de93bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[3]/preceding::span[6]</value>
+      <webElementGuid>39cb4cce-05d9-49b2-990f-ffb7e5a9fd9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>80ab3bed-71a7-4a45-838e-96ce50313d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Travelling with ' or . = 'Travelling with ')]</value>
+      <webElementGuid>b8aafec5-2f59-401d-b3cc-9a15bc03b514</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

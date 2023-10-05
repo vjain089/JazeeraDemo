@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Travelling with</name>
+   <tag></tag>
+   <elementGuidId>ace1865d-b504-4f1e-b419-ec8e1f1bd7e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ngx-dropdown-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Travelling with ' or . = 'Travelling with ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>100800ac-7799-4fa8-b549-8c717463e64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6a65c44d-a29e-4fa8-8a35-a3e22a0597db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>53590341-068e-41ee-a5d9-315451c884a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ngx-dropdown-button</value>
+      <webElementGuid>32635cc7-c456-4dad-ab3e-b70d6861c81d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Travelling with </value>
+      <webElementGuid>ed1a2cfe-5d9c-487a-9936-29a38c82b0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;passengerCollapse2&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;panel-form-wrap cols__alignh-start&quot;]/div[@class=&quot;panel-form panelwidthadjust&quot;]/div[@class=&quot;form-wrap&quot;]/div[@class=&quot;form-row row ng-star-inserted&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-field float-label-wrapper travelmaxwidth&quot;]/ngx-select-dropdown[@class=&quot;ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;ngx-dropdown-container&quot;]/button[@class=&quot;ngx-dropdown-button&quot;]</value>
+      <webElementGuid>a8a4e6c7-4b7f-4a07-b9b8-499ca36bf2f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Travelling with ' or . = 'Travelling with ')]</value>
+      <webElementGuid>aca1f02c-99b9-4f2f-a0cf-8f596806ce24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>64978490-e663-4141-b185-41dca89b9b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='passengerCollapse2']/div/div/div[2]/div/div/div/div/ngx-select-dropdown/div/button</value>
+      <webElementGuid>d55416e6-5757-4219-94d7-4a7c2dc6c1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travelling with'])[1]/following::button[1]</value>
+      <webElementGuid>96658ca9-72c1-4fbd-b408-4b6e813a5764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='As written in passport'])[4]/following::button[1]</value>
+      <webElementGuid>f7036fc7-1c65-4f1d-bdcc-576e6a9b585e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[3]/preceding::button[1]</value>
+      <webElementGuid>af1d3b45-a28f-41e4-91cb-84cb41c38945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>f290c23e-4cc8-41f7-820e-b61eaa8a9533</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

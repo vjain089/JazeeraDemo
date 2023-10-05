@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_24</name>
+   <tag></tag>
+   <elementGuidId>33ab2085-db82-49ce-9abb-e534d02fad19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.day.toMonth.valid.hovering</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='departure_flight_search_oneway_range_picker']/div/div/table[2]/tbody/tr[4]/td[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4d2d978-1e7d-45d4-8c03-b0820a7671d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>time</name>
+      <type>Main</type>
+      <value>1698135968137</value>
+      <webElementGuid>f484d7ed-76f0-47a3-9577-0033bbd45fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>day toMonth valid hovering</value>
+      <webElementGuid>069c4969-1a0f-4d82-a8ec-ba6cc8f9f5ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>eabd9159-e3f6-465d-8462-d2afa990db51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;departure_flight_search_oneway_range_picker&quot;)/div[@class=&quot;date-picker-wrapper single-date no-shortcuts no-topbar inline-wrapper no-gap two-months&quot;]/div[@class=&quot;month-wrapper&quot;]/table[@class=&quot;month2&quot;]/tbody[1]/tr[4]/td[3]/div[@class=&quot;day toMonth valid hovering&quot;]</value>
+      <webElementGuid>8b36e4b0-8f27-4992-b511-8aff4db2c0ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='departure_flight_search_oneway_range_picker']/div/div/table[2]/tbody/tr[4]/td[3]/div</value>
+      <webElementGuid>7d9b24a7-5254-460f-ac4f-fae2f550ebcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sat'])[6]/following::div[24]</value>
+      <webElementGuid>c3d98a33-60ff-4cb9-9a1a-7bed87709ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fri'])[6]/following::div[24]</value>
+      <webElementGuid>d1e732a4-2c88-4415-8983-eee779697b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passengers'])[2]/preceding::div[18]</value>
+      <webElementGuid>13f6e11b-4cec-4cf9-a823-a5668cc11f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-modify-search-one-way/div/form/div/div[2]/div/div/div[2]/div[3]/div/div/table[2]/tbody/tr[4]/td[3]/div</value>
+      <webElementGuid>b05a712e-db7c-4a9d-9441-ba0d6addb583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '24' or . = '24')]</value>
+      <webElementGuid>63db1948-acd9-4520-ac96-43e84a80f194</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

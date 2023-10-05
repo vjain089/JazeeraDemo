@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_One Way</name>
+   <tag></tag>
+   <elementGuidId>6bcceb4c-d742-4c46-82a4-f88ef81c8563</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='flights']/div/div/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ce07c44f-bb02-49b6-bc80-ce7fa6ab3a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>flightSearchOneWay</value>
+      <webElementGuid>97d7b787-f4a5-4b54-ae61-7f440573b3af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>One Way</value>
+      <webElementGuid>7af0ad50-7532-4e42-a799-369590466eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flights&quot;)/div[@class=&quot;switch-sub-panel&quot;]/div[@class=&quot;switching-inputs ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;input-wrap&quot;]/label[1]</value>
+      <webElementGuid>53aac34c-981e-49ef-a659-5d6374c1b303</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='flights']/div/div/div[2]/label</value>
+      <webElementGuid>1ae63105-ddf4-420a-a8f9-dfbfc94114eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return'])[1]/following::label[1]</value>
+      <webElementGuid>c2767150-a344-4c70-845f-e0ae1f50178f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flights'])[2]/following::label[2]</value>
+      <webElementGuid>d0b5f6a6-bf29-4211-8626-2de27d6ea0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi City'])[1]/preceding::label[1]</value>
+      <webElementGuid>bcb380f7-8921-49e6-b4fd-6486daac470f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Departure Airport'])[1]/preceding::label[2]</value>
+      <webElementGuid>50c3dd7c-6555-4afa-9b14-ad063f296d93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='One Way']/parent::*</value>
+      <webElementGuid>c524d97f-e071-4fda-8a0a-d591230ddcd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>3282f4e4-4a69-480b-82a8-2bcab7b8745c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'One Way' or . = 'One Way')]</value>
+      <webElementGuid>3946c145-3fe9-42fc-8da5-f91eb90072b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
