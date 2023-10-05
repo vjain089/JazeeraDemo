@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;flight-mockup-wrap economy-flight&quot;]/div[@class=&quot;flight-inside-wrap&quot;]/div[2]/div[@class=&quot;flight-select-seat-wrap economy-class-wrapper preffered ng-star-inserted&quot;]/div[@class=&quot;seat-row ng-star-inserted&quot;]/div[@class=&quot;seat-col right-col ng-star-inserted&quot;]/div[@class=&quot;checkbox-wrap ng-star-inserted&quot;]/label[1][count(. | //*[@data-original-title = concat(&quot;&lt;span class=&quot; , &quot;'&quot; , &quot;seat-num&quot; , &quot;'&quot; , &quot;>5B &lt;span class=&quot; , &quot;'&quot; , &quot;price&quot; , &quot;'&quot; , &quot;>KWD &lt;strong> 7&lt;/strong>&lt;/span>&lt;/span>&quot;)]) = count(//*[@data-original-title = concat(&quot;&lt;span class=&quot; , &quot;'&quot; , &quot;seat-num&quot; , &quot;'&quot; , &quot;>5B &lt;span class=&quot; , &quot;'&quot; , &quot;price&quot; , &quot;'&quot; , &quot;>KWD &lt;strong> 7&lt;/strong>&lt;/span>&lt;/span>&quot;)])]</value>
+         <value>//*[@data-original-title = concat(&quot;&lt;span class=&quot; , &quot;'&quot; , &quot;seat-num&quot; , &quot;'&quot; , &quot;>${seat} &lt;span class=&quot; , &quot;'&quot; , &quot;price&quot; , &quot;'&quot; , &quot;>KWD &lt;strong> 7&lt;/strong>&lt;/span>&lt;/span>&quot;)]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -17,7 +17,7 @@
          <value>//div[@id='mCSB_1_container']/div/div/div[2]/div[2]/div[2]/div[2]/div[1]/label</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>c09f27e4-5ada-4233-91bf-c1f2923be40e</webElementGuid>
+      <webElementGuid>36ab38ff-fe92-4037-a2a1-dfd1d95131ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,7 +33,7 @@
       <name>data-html</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d2a0bc69-9f2f-4ba7-b607-495274cfbc71</webElementGuid>
+      <webElementGuid>919fd6ef-c8f5-4b4d-8b89-47c4c9f4e017</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,15 +41,15 @@
       <name>for</name>
       <type>Main</type>
       <value>unit_SjkhMTIxISAhNjM4MzM5MDE2MDAwMDAwMDAwIUtXSSFEWEIhNUIhWQ--</value>
-      <webElementGuid>bb63328b-f4ba-4790-8bb6-fd9630f01cca</webElementGuid>
+      <webElementGuid>e33dfe02-0fa0-4f04-be2e-c751d7515af1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-original-title</name>
       <type>Main</type>
-      <value>&lt;span class='seat-num'>5B &lt;span class='price'>KWD &lt;strong> 7&lt;/strong>&lt;/span>&lt;/span></value>
-      <webElementGuid>180e1983-279c-4b75-8a4e-84a19017cff2</webElementGuid>
+      <value>&lt;span class='seat-num'>${seat} &lt;span class='price'>KWD &lt;strong> 7&lt;/strong>&lt;/span>&lt;/span></value>
+      <webElementGuid>fb27eb7c-1671-4ac2-baac-bc3860d25dfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,15 +57,15 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>tooltip221472</value>
-      <webElementGuid>46b30b62-4cb7-4d09-8f29-d691ab2e8700</webElementGuid>
+      <webElementGuid>ff308766-bf8e-4ece-821d-146605ce42eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_1_container&quot;)/div[@class=&quot;flight-mockup-wrap economy-flight&quot;]/div[@class=&quot;flight-inside-wrap&quot;]/div[2]/div[@class=&quot;flight-select-seat-wrap economy-class-wrapper preffered ng-star-inserted&quot;]/div[@class=&quot;seat-row ng-star-inserted&quot;]/div[@class=&quot;seat-col right-col ng-star-inserted&quot;]/div[@class=&quot;checkbox-wrap ng-star-inserted&quot;]/label[1]</value>
-      <webElementGuid>f63226c5-dffa-4091-9696-585d4d34991d</webElementGuid>
+      <webElementGuid>b37c1c6f-0fd4-4b01-8eab-fe61175d77fd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_1_container']/div/div/div[2]/div[2]/div[2]/div[2]/div[2]/label</value>
-      <webElementGuid>3e975465-c2c7-490f-8a58-041ec699e4ac</webElementGuid>
+      <webElementGuid>88c4180e-a100-47c8-a2ab-5330cdd81616</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[2]/following::label[26]</value>
-      <webElementGuid>ecb7513b-eb7b-4197-8a83-1d2f21775c2a</webElementGuid>
+      <webElementGuid>f984801d-cd0d-419a-a4d2-2ea911f9e144</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[1]/following::label[26]</value>
-      <webElementGuid>65b473b2-c936-4d67-aa31-c87b53ddee87</webElementGuid>
+      <webElementGuid>7d821415-1a24-415e-bc32-5ed1eb003b8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[3]/preceding::label[143]</value>
-      <webElementGuid>3a4df07d-02d3-4a2f-8e0f-a1847ba8bd11</webElementGuid>
+      <webElementGuid>2ddb15c2-98af-45f0-8a8d-842499667ca8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='B'])[2]/preceding::label[143]</value>
-      <webElementGuid>c6d7199d-c1e0-40ab-986a-215c7d144c61</webElementGuid>
+      <webElementGuid>fb6005c0-bf1c-4ad6-986a-2aabf4d2ab98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div[2]/div[2]/label</value>
-      <webElementGuid>45ed012a-9984-4b00-9eee-162cad98164f</webElementGuid>
+      <webElementGuid>1749049b-9202-4eb1-b70a-9103485a9327</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

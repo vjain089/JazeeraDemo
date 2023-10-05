@@ -9,11 +9,15 @@
          <key>CSS</key>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@data-original-title = concat(&quot;&lt;span class=&quot; , &quot;'&quot; , &quot;seat-num&quot; , &quot;'&quot; , &quot;>7F &lt;span class=&quot; , &quot;'&quot; , &quot;price&quot; , &quot;'&quot; , &quot;>KWD &lt;strong> 7&lt;/strong>&lt;/span>&lt;/span>&quot;)]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='mCSB_2_container']/div/div/div[2]/div[2]/div[4]/div[3]/div[2]/label</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>c78459b1-4f70-41c5-b6a3-0b79e3257905</webElementGuid>
+      <webElementGuid>1a35dbad-5db9-4a98-bc58-39f7d0382026</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +33,7 @@
       <name>data-html</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>506dd7b0-1e8d-4945-bcc1-6422b6ed83af</webElementGuid>
+      <webElementGuid>bca475b9-7e82-4721-9a92-5f4ab1bb8b3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +41,15 @@
       <name>for</name>
       <type>Main</type>
       <value>unit_SjkhMTI0ISAhNjM4MzQ1NDAzMDAwMDAwMDAwIURYQiFLV0khN0YhWQ--</value>
-      <webElementGuid>3a8573d7-5e87-441e-9510-3b08e0bc7a62</webElementGuid>
+      <webElementGuid>fbaf3fba-09d6-4d08-a609-872ec4f72d6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-original-title</name>
       <type>Main</type>
-      <value>&lt;span class='seat-num'>7F &lt;span class='price'>KWD &lt;strong> 7&lt;/strong>&lt;/span>&lt;/span></value>
-      <webElementGuid>b56e3fbe-291e-4c54-a229-00e01c65f61e</webElementGuid>
+      <value>&lt;span class='seat-num'>${seat} &lt;span class='price'>KWD &lt;strong> 7&lt;/strong>&lt;/span>&lt;/span></value>
+      <webElementGuid>49262e14-91c5-416c-aab6-c66155810d50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +57,15 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>tooltip565528</value>
-      <webElementGuid>dcc45391-989d-44b8-adf6-420dc55a2ed1</webElementGuid>
+      <webElementGuid>6e2b998a-8826-455c-aab7-6ae188632ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mCSB_2_container&quot;)/div[@class=&quot;flight-mockup-wrap economy-flight&quot;]/div[@class=&quot;flight-inside-wrap&quot;]/div[2]/div[@class=&quot;flight-select-seat-wrap economy-class-wrapper preffered ng-star-inserted&quot;]/div[@class=&quot;seat-row ng-star-inserted&quot;]/div[@class=&quot;seat-col left-col ng-star-inserted&quot;]/div[@class=&quot;checkbox-wrap ng-star-inserted&quot;]/label[1]</value>
-      <webElementGuid>e6f0242f-84bf-42b3-9306-c6af5f073949</webElementGuid>
+      <webElementGuid>f8f00a9a-900d-49e2-86b1-315cb199856c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mCSB_2_container']/div/div/div[2]/div[2]/div[4]/div[3]/div[3]/label</value>
-      <webElementGuid>20081f20-203b-41d4-b164-3963a730202d</webElementGuid>
+      <webElementGuid>28180795-e83a-45fe-b936-539d8822a36f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[2]/following::label[42]</value>
-      <webElementGuid>5d000830-37b4-402f-b341-60e784eb7be5</webElementGuid>
+      <webElementGuid>4f165800-94ec-415c-8cdf-c01c449daac3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[1]/following::label[42]</value>
-      <webElementGuid>b8711934-dc73-48c6-8147-8e2125c71f3d</webElementGuid>
+      <webElementGuid>cb4d81f8-fffb-4e3c-94f7-b659f88af87d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[3]/preceding::label[127]</value>
-      <webElementGuid>ae807121-0c2e-4ddc-958e-963b259cb9b6</webElementGuid>
+      <webElementGuid>a8c032d1-ccb5-41c5-bdda-c901750ce007</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='B'])[2]/preceding::label[127]</value>
-      <webElementGuid>8aa1c848-9467-485f-aa4d-589977b18a24</webElementGuid>
+      <webElementGuid>57f63673-e7ea-4ec5-bc32-de89817387af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +113,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[4]/div[3]/div[3]/label</value>
-      <webElementGuid>0174aecf-346a-401c-ac2e-99e281d238a1</webElementGuid>
+      <webElementGuid>b173f8e5-a2a4-431e-b6fb-161868a47639</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

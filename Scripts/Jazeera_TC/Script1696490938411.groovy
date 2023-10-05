@@ -118,7 +118,7 @@ WebUI.click(findTestObject('Object Repository/Page_Jazeera Airways/button_Select
 
 WebUI.click(findTestObject('Object Repository/Page_Jazeera Airways/button_Select Seat_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Jazeera Airways/label'))
+WebUI.click(findTestObject('Page_Jazeera Airways/label', [('seat') : '6C']))
 
 WebUI.click(findTestObject('Object Repository/Page_Jazeera Airways/button_Confirm Selection'))
 
@@ -130,7 +130,7 @@ WebUI.scrollToElement(findTestObject('Object Repository/Page_Jazeera Airways/but
 
 WebUI.click(findTestObject('Object Repository/Page_Jazeera Airways/button_Select Seat_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Jazeera Airways/label_1'))
+WebUI.click(findTestObject('Page_Jazeera Airways/label_1', [('seat') : '7A']))
 
 WebUI.click(findTestObject('Object Repository/Page_Jazeera Airways/button_Confirm Selection'))
 
